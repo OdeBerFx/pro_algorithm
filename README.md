@@ -22,3 +22,4 @@ Interview assignment for Pro Algorithm: assign drivers to rides.
 - Find a shp file of the routes and their details in the areas of the rides instead of using OSRM api.
 - Save previous calculations of routes in order to not calculate routes more than once.
 - Check if the cost to send a driver home in between rides is less than the cost to go straight to the next ride.
+- Add tracking to the code flow, as well as general error handling.
